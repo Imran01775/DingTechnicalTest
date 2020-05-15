@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.Service\\Dimng.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.ServiceInterface\\Dimng.ServiceInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.ServiceInterface\\Dimng.ServiceInterface.csproj",
+        "projectName": "Dimng.ServiceInterface",
+        "projectPath": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.ServiceInterface\\Dimng.ServiceInterface.csproj",
+        "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.ServiceInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ec2-18-130-100-198.eu-west-2.compute.amazonaws.com/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Ding.Domain\\Ding.Domain.csproj": {
+                "projectPath": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Ding.Domain\\Ding.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.Service\\Dimng.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.Service\\Dimng.Service.csproj",
+        "projectName": "Dimng.Service",
+        "projectPath": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.Service\\Dimng.Service.csproj",
+        "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ec2-18-130-100-198.eu-west-2.compute.amazonaws.com/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.ServiceInterface\\Dimng.ServiceInterface.csproj": {
+                "projectPath": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Dimng.ServiceInterface\\Dimng.ServiceInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Ding.Domain\\Ding.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Ding.Domain\\Ding.Domain.csproj",
+        "projectName": "Ding.Domain",
+        "projectPath": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Ding.Domain\\Ding.Domain.csproj",
+        "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Imran\\Desktop\\Ding_Technical_Test\\Ding.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ec2-18-130-100-198.eu-west-2.compute.amazonaws.com/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

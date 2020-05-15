@@ -1,0 +1,11 @@
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\bin\Debug\netcoreapp3.1\Ding.Repository.deps.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\bin\Debug\netcoreapp3.1\Ding.Repository.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\bin\Debug\netcoreapp3.1\Ding.Repository.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\bin\Debug\netcoreapp3.1\Ding.RepositoryInterface.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\bin\Debug\netcoreapp3.1\Ding.RepositoryInterface.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\obj\Debug\netcoreapp3.1\Ding.Repository.csprojAssemblyReference.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\obj\Debug\netcoreapp3.1\Ding.Repository.AssemblyInfoInputs.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\obj\Debug\netcoreapp3.1\Ding.Repository.AssemblyInfo.cs
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\obj\Debug\netcoreapp3.1\Ding.Repository.csproj.CopyComplete
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\obj\Debug\netcoreapp3.1\Ding.Repository.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Repository\obj\Debug\netcoreapp3.1\Ding.Repository.pdb

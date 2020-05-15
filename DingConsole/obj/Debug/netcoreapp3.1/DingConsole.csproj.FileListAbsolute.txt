@@ -1,0 +1,222 @@
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.exe
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.deps.json
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.runtimeconfig.json
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.runtimeconfig.dev.json
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.dll
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.pdb
+C:\Users\Imran\source\repos\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.AssemblyInfoInputs.cache
+C:\Users\Imran\source\repos\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.AssemblyInfo.cs
+C:\Users\Imran\source\repos\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.dll
+C:\Users\Imran\source\repos\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.pdb
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingAPI.exe
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingAPI.dll
+C:\Users\Imran\source\repos\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingAPI.pdb
+C:\Users\Imran\source\repos\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.csprojAssemblyReference.cache
+C:\Users\Imran\source\repos\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.csproj.CopyComplete
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\appsettings.json
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingAPI.exe
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.exe
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.deps.json
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.runtimeconfig.json
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.runtimeconfig.dev.json
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.pdb
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Ding.Domain.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingAPI.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Ding.Domain.pdb
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\DingAPI.pdb
+I:\Test Exam Ding\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.csprojAssemblyReference.cache
+I:\Test Exam Ding\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.AssemblyInfoInputs.cache
+I:\Test Exam Ding\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.AssemblyInfo.cs
+I:\Test Exam Ding\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.csproj.CopyComplete
+I:\Test Exam Ding\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.dll
+I:\Test Exam Ding\DingConsole\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.pdb
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Dimng.Service.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\Dimng.Service.pdb
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\FluentValidation.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+I:\Test Exam Ding\DingConsole\DingConsole\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\DingAPI.exe
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.exe
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.deps.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.runtimeconfig.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.runtimeconfig.dev.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\DingConsole.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Dimng.Service.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Ding.Domain.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\DingAPI.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Ding.Domain.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\DingAPI.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Dimng.Service.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.csprojAssemblyReference.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.AssemblyInfoInputs.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.AssemblyInfo.cs
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.csproj.CopyComplete
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\DingConsole\obj\Debug\netcoreapp3.1\DingConsole.pdb

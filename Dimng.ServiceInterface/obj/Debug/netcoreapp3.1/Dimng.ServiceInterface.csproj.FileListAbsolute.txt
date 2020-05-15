@@ -1,0 +1,30 @@
+C:\Users\Imran\source\repos\DingConsole\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.deps.json
+C:\Users\Imran\source\repos\DingConsole\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+C:\Users\Imran\source\repos\DingConsole\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb
+C:\Users\Imran\source\repos\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.csprojAssemblyReference.cache
+C:\Users\Imran\source\repos\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.AssemblyInfoInputs.cache
+C:\Users\Imran\source\repos\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.AssemblyInfo.cs
+C:\Users\Imran\source\repos\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+C:\Users\Imran\source\repos\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.deps.json
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.csprojAssemblyReference.cache
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.AssemblyInfoInputs.cache
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.AssemblyInfo.cs
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Ding.Domain.dll
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Ding.Domain.pdb
+I:\Test Exam Ding\DingConsole\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.csproj.CopyComplete
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.deps.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Ding.Domain.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\bin\Debug\netcoreapp3.1\Ding.Domain.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.csprojAssemblyReference.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.AssemblyInfoInputs.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.AssemblyInfo.cs
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.csproj.CopyComplete
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.ServiceInterface\obj\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb

@@ -1,0 +1,24 @@
+C:\Users\Imran\source\repos\DingConsole\Ding.Domain\bin\Debug\netcoreapp3.1\Ding.Domain.deps.json
+C:\Users\Imran\source\repos\DingConsole\Ding.Domain\bin\Debug\netcoreapp3.1\Ding.Domain.dll
+C:\Users\Imran\source\repos\DingConsole\Ding.Domain\bin\Debug\netcoreapp3.1\Ding.Domain.pdb
+C:\Users\Imran\source\repos\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.csprojAssemblyReference.cache
+C:\Users\Imran\source\repos\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.AssemblyInfoInputs.cache
+C:\Users\Imran\source\repos\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.AssemblyInfo.cs
+C:\Users\Imran\source\repos\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.dll
+C:\Users\Imran\source\repos\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.pdb
+I:\Test Exam Ding\DingConsole\Ding.Domain\bin\Debug\netcoreapp3.1\Ding.Domain.deps.json
+I:\Test Exam Ding\DingConsole\Ding.Domain\bin\Debug\netcoreapp3.1\Ding.Domain.dll
+I:\Test Exam Ding\DingConsole\Ding.Domain\bin\Debug\netcoreapp3.1\Ding.Domain.pdb
+I:\Test Exam Ding\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.csprojAssemblyReference.cache
+I:\Test Exam Ding\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.AssemblyInfoInputs.cache
+I:\Test Exam Ding\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.AssemblyInfo.cs
+I:\Test Exam Ding\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.dll
+I:\Test Exam Ding\DingConsole\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Domain\bin\Debug\netcoreapp3.1\Ding.Domain.deps.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Domain\bin\Debug\netcoreapp3.1\Ding.Domain.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Domain\bin\Debug\netcoreapp3.1\Ding.Domain.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.csprojAssemblyReference.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.AssemblyInfoInputs.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.AssemblyInfo.cs
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Ding.Domain\obj\Debug\netcoreapp3.1\Ding.Domain.pdb

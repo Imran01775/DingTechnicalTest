@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dimng.ServiceInterface\Dimng.ServiceInterface.csproj" />
+    <ProjectReference Include="..\Dimng.Service\Dimng.Service.csproj" />
+    <ProjectReference Include="..\Ding.RepositoryInterface\Ding.RepositoryInterface.csproj" />
+    <ProjectReference Include="..\Ding.Repository\Ding.Repository.csproj" />
+  </ItemGroup>
+
+
+</Project>

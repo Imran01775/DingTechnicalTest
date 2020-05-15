@@ -1,0 +1,33 @@
+C:\Users\Imran\source\repos\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.Service.deps.json
+C:\Users\Imran\source\repos\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.Service.dll
+C:\Users\Imran\source\repos\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.Service.pdb
+C:\Users\Imran\source\repos\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.AssemblyInfoInputs.cache
+C:\Users\Imran\source\repos\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.AssemblyInfo.cs
+C:\Users\Imran\source\repos\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.dll
+C:\Users\Imran\source\repos\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.pdb
+I:\Test Exam Ding\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.Service.deps.json
+I:\Test Exam Ding\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.Service.dll
+I:\Test Exam Ding\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.Service.pdb
+I:\Test Exam Ding\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.csprojAssemblyReference.cache
+I:\Test Exam Ding\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.AssemblyInfoInputs.cache
+I:\Test Exam Ding\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.AssemblyInfo.cs
+I:\Test Exam Ding\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.dll
+I:\Test Exam Ding\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.pdb
+I:\Test Exam Ding\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+I:\Test Exam Ding\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb
+I:\Test Exam Ding\DingConsole\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.csproj.CopyComplete
+I:\Test Exam Ding\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Ding.Domain.dll
+I:\Test Exam Ding\DingConsole\Dimng.Service\bin\Debug\netcoreapp3.1\Ding.Domain.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.Service.deps.json
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.Service.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.Service.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\bin\Debug\netcoreapp3.1\Ding.Domain.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\bin\Debug\netcoreapp3.1\Dimng.ServiceInterface.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\bin\Debug\netcoreapp3.1\Ding.Domain.pdb
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.csprojAssemblyReference.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.AssemblyInfoInputs.cache
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.AssemblyInfo.cs
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.csproj.CopyComplete
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.dll
+C:\Users\Imran\Desktop\Ding_Technical_Test\Dimng.Service\obj\Debug\netcoreapp3.1\Dimng.Service.pdb
